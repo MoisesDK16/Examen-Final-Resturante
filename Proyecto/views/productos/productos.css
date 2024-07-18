@@ -1,0 +1,8 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+  }
+  .table {
+    width: 70%; /* Ajusta este valor según el tamaño deseado */
+    margin: 20px auto; /* Centra la tabla verticalmente con un margen */
+  }
